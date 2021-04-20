@@ -1,13 +1,19 @@
 # CSC413 Project - Team 8 
 
-Python scripts in notebook files for CSC413 project team 8
+Code files for CSC413 project team 8
 
---- Salient map experiment notes begin ---
+## Saliency map comparison for ResNet and DenseNet
 
-MAIN FILE TO PRODUCE THE EXPERIMENT:
-comparison.py
+MAIN FILE TO PRODUCE THE EXPERIMENT: salientMapCode/comparison.py
 
 REST OF THE CODE ARE FROM THE GITHUB WITH SOME CUSTOM MODIFICATIONS:
 https://github.com/utkuozbulak/pytorch-cnn-visualizations
 
---- Salient map experiment notes end ---
+## GPU peak memory requirement comparison for ResNet and DenseNet
+
+densenet_vs_resnet_GPU_usage.ipynb
+
+## Feature reuse analysis for ResNet and DenseNet
+
+
+
