@@ -1,0 +1,13 @@
+lr: 0.001
+model_name: densenet
+batchsize: 64
+logspace: 1
+gamma: 0.9
+momentum: 0.9
+weight_decay: 0.00001
+epoch: 10
+seed: 0
+opt: adam
+datapath: ../tiny-imagenet-200
+result_path: result_n_quater
+start_epoch: 0
