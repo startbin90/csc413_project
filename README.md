@@ -14,6 +14,6 @@ https://github.com/utkuozbulak/pytorch-cnn-visualizations
 densenet_vs_resnet_GPU_usage.ipynb
 
 ## Feature reuse analysis for ResNet and DenseNet
-
+feature_reuse/
 
 
